@@ -1,3 +1,5 @@
-= japanese_help
+= Redmine Help Replacement Plugin
+== Installation
+1. $ cd REDMINE_ROOT
+2. $ ruby script/plugin install git://github.com/suer/redmine_japanese_help.git
 
-Description goes here
